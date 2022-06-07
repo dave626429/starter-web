@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Davinder Singh dave626429@gmail.com
 
 # THANKS
 
