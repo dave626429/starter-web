@@ -11,6 +11,13 @@ using a web project.
 
 ## Purpose
 
+As stated abovem the main purpose is to
+provide simple examples for Git training
+demos.
+
 ## Deployment
+
+This is a simpket web project, deployment
+can be on any web server or even local file system.
 
 ## How to contribute
