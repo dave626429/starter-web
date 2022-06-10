@@ -4,6 +4,7 @@ This is a simple project for showing
 how to use GIT and GITHUB together.
 ADDED some more text for Rebasing Module.
 More changes from myfeature branch.
+Adding more line for rebasing example again.
 
 ## Introduction
 
