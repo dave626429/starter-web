@@ -7,7 +7,7 @@
 
 # THANKS
 
-	Davinder Singh
+	Thanks to the git Instructor.
 
 # TECHNOLOGY COLOPHON
 
