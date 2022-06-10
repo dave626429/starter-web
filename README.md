@@ -30,4 +30,4 @@ Please fork this repository  and then issue pull Requests for review.
 
 ### Copyright
 
-2022 Git.Davinder.Notes
+2022 Git.Davinder.Notes, All rights reserved.
