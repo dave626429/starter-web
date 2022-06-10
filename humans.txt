@@ -8,6 +8,7 @@
 # THANKS
 
 	Thanks to the git Instructor.
+	Some more text for stashing example.
 
 # TECHNOLOGY COLOPHON
 
