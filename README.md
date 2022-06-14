@@ -7,6 +7,7 @@ More changes from myfeature branch.
 Adding more line for rebasing example again.
 then more changes from myfeature branch.
 Adding Emergency fix after stash.
+adding more lines for stashing example.
 
 ## Introduction
 
